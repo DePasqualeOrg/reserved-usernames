@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "author": "Forked from github.com/shouldbee/reserved-usernames, modified by Anthony DePasquale (anthony@depasquale.org)",
   "description": "Reserved user names for new projects",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DePasqualeOrg/reserved-usernames"
+  },
   "keywords": [],
   "type": "module",
   "main": "build/index.js",

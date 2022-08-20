@@ -10,6 +10,7 @@
   "keywords": [],
   "type": "module",
   "main": "build/index.js",
+  "types": "build/types/index.d.ts",
   "scripts": {
     "build": "tsc",
     "start": "node build/index.js"

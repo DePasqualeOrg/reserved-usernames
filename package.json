@@ -1,6 +1,6 @@
 {
   "name": "@depasquale/reserved-usernames",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Forked from github.com/shouldbee/reserved-usernames, modified by Anthony DePasquale (anthony@depasquale.org)",
   "description": "Reserved user names for new projects",
   "repository": {

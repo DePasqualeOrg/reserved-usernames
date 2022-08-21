@@ -618,24 +618,33 @@ co
 com
 commercial
 coo
+crypto
 cs
 cto
 customer
 customer-service
+customer_service
 customers
 customerservice
+developer-experience
 developer-relations
+developer_experience
+developerexperience
 developerrelations
 devrel
 documents
+dx
+experience
 finance
 framework
 headquarters
 hr
 human-resources
+human_resources
 humanresources
 inc
 infrastructure
+interface
 investor
 investors
 ir
@@ -651,7 +660,15 @@ servers
 social
 technology
 try
+ui
 updates
+user-experience
+user-interface
+user_experience
+user_interface
+userexperience
+userinterface
+ux
 `.trim().split('\n');
 
-export default [...originalList, ...additionalNames];
+export default [...originalList, ...additionalNames].sort();
